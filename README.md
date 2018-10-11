@@ -2,4 +2,4 @@
 
 Simple Vanilla JavaScript quiz.
 
-You can visit it at: https://milosrancic.github.io/simple-quiz/
+You can visit it at: https://milosrancic.github.io/js-quiz/
