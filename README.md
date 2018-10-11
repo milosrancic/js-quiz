@@ -1,4 +1,4 @@
-# simple-quiz
+# js-quiz
 
 Simple Vanilla JavaScript quiz.
 
