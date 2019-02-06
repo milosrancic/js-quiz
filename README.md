@@ -1,5 +1,9 @@
-# js-quiz
+# Vanilla JavaScript quiz
 
-Simple Vanilla JavaScript quiz.
+Simple Vanilla JS quiz
 
-You can visit it at: https://milosrancic.github.io/js-quiz/
+## View project
+https://milosrancic.github.io/js-quiz/
+
+### Technologies 
+HTML5, CSS3, Bootstrap, JavaScript
